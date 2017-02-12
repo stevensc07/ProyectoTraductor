@@ -16,7 +16,7 @@ import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
-// khaaaaa?
+// khaaaaa? por que no te borrass????
 /*-----------------------------------------------------------------------------------------------------------------------------------------------------*/
 public class Diccionario extends javax.swing.JFrame {
 
